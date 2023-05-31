@@ -1,2 +1,2 @@
-# simple-spring-kafka-notification
+# simple-notification-spring-kafka
 Simple springboot notificaton with Apache Kafka implementation
